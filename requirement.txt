@@ -1,0 +1,12 @@
+asgiref==3.7.1
+async-timeout==4.0.2
+backports.zoneinfo==0.2.1
+Django==4.2.1
+django-ratelimit==4.0.0
+django-redis==5.2.0
+mysqlclient==2.1.1
+pytz==2023.3
+redis==4.5.5
+sqlparse==0.4.4
+typing-extensions==4.6.2
+tzlocal==5.0.1
